@@ -6,7 +6,7 @@ This document maps the eight intentional compliance gaps in the `cgep-app-starte
 
 **SOC 2 Type II (Trust Services Criteria)** is selected as the primary compliance framework to satisfy enterprise healthcare customer due diligence requirements and demonstrate that technical controls operate continuously over time—directly aligning with an automated CI/CD evidence pipeline that produces signed, immutable artifacts on every merge to `main`.
 
-SOC2 Type II has the additional benefit as being a sales enabler and "commercial trust signal.” As we are a young and eager-to-grow company, this seems like the right framework as it aligns with the company's expressed plan to generate revenue, acquire new customers and ensures that security is not an afterthought or ad hoc process. The goal is to bring rigor to engineering, security, and compliance while providing an opportunity to positively impact ACME's sales/revenue generating capabilities.  
+SOC2 Type II has the additional benefit of being a sales enabler and "commercial trust signal.” As we are a young and eager-to-grow company, this seems like the right framework as it aligns with the company's expressed plan to generate revenue, acquire new customers and ensures that security is not an afterthought or ad hoc process. The goal is to bring rigor to engineering, security, and compliance while providing an opportunity to positively impact ACME's sales/revenue generating capabilities.  
 
 
 ## Control-to-Gap Matrix
