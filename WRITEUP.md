@@ -1,21 +1,13 @@
-### Framework Choice
-
-As the GRC Engineer for ACME Heath, I am suggesting that senior management focuses on **SOC 2 Type II**. Why?  SOC 2 Type II to demonstrates that controls are not just a point-in-time screenshot.
-
-These controls work over time and demonstrate a repeatable process that is in line with the Trust Services Criteria.
-
-There are arguments to be made that SOC2 Type II is more of  a sales enabler and "commercial trust signal," but its flexibility allows us to define how ACME Health's controls  meet the Trust Services Criteria.
-
-Many of ACME Health's potential (and current) customers have asked us for a copy of our  SOC 2 Type II (under NDA) or a SOC 3. As we are a young and eager-to-grow company, this feels like the right framework as it aligns with the company's plan to generate revenue, acquire new customers and ensures that security is not an afterthought or ad hoc process. The goal is to bring rigor to engineering, security and compliane while providing an opportunity to positively impact ACME's sales/revenue generating capabilities.
-
-
-### SOC 2 Type II Control-to-Gap Mapping
+# SOC 2 Type II Control-to-Gap Mapping
 
 This document maps the eight intentional compliance gaps in the `cgep-app-starter` Patient Intake API to the **SOC 2 Trust Services Criteria (TSC)**, serving as the control traceability matrix for Acme Health's GRC Engineering Capstone.
 
 ## Primary Framework Rationale
 
 **SOC 2 Type II (Trust Services Criteria)** is selected as the primary compliance framework to satisfy enterprise healthcare customer due diligence requirements and demonstrate that technical controls operate continuously over time—directly aligning with an automated CI/CD evidence pipeline that produces signed, immutable artifacts on every merge to `main`.
+
+SOC2 Type II has the additional benefit as being a sales enabler and "commercial trust signal.” As we are a young and eager-to-grow company, this seems like the right framework as it aligns with the company's expressed plan to generate revenue, acquire new customers and ensures that security is not an afterthought or ad hoc process. The goal is to bring rigor to engineering, security, and compliance while providing an opportunity to positively impact ACME's sales/revenue generating capabilities.  
+
 
 ## Control-to-Gap Matrix
 
